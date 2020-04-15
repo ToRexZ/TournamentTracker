@@ -12,14 +12,17 @@ namespace TrackerLibrary
         /// Represents the teams Placenumber
         /// </summary>
         public int PlaceNumber { get; set; }
+
         /// <summary>
         /// Represents the Name of the current place
         /// </summary>
         public string PlaceName { get; set; }
+
         /// <summary>
         /// Represents the total Prize
         /// </summary>
         public decimal Prizeamount { get; set; }
+
         /// <summary>
         /// Represents the percentage of the total prizeze
         /// </summary>
